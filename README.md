@@ -5,3 +5,7 @@ Uma simples página html com animações em Css e um pouco de javascript para me
 ## Como iniciar?
 
 O projeto utiliza Html, Css e Javascript puros, então fiquem à vontade para baixar e rodar direto sem nenhuma configuração!
+
+### Preview
+
+![humor](https://user-images.githubusercontent.com/50507358/125203547-29696980-e24f-11eb-86f9-41a4fab6252c.gif)
