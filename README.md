@@ -6,7 +6,7 @@ Uma simples página html com animações em Css e um pouco de javascript para me
 
 O projeto utiliza Html, Css e Javascript puros, então fiquem à vontade para baixar e rodar direto sem nenhuma configuração!
 
-### Preview
+## Preview
 
 [Live preview](https://seu-humor-hoje.vercel.app/)
 
