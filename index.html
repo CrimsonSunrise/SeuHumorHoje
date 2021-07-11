@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+    <title>Humor</title>
+</head>
+<body>
+    
+    <div class="mainApp" id="mainApp">
+        
+        <h1>Como está o seu humor hoje?</h1>
+        
+        <div class="card">
+            
+            <div class="face">
+                <div class="eyes">
+                    <div class="eyelashes left" id="el"></div>
+                    <div class="eyelashes right" id="er"></div>
+                    <div class="eye">
+                        <div id="le"></div>
+                    </div>
+                    <div class="eye">
+                        <div id="re"></div>
+                    </div>
+                </div>
+                <div class="mouth" id="mouth">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300"><path id="p" fill="none" stroke="#63373a" stroke-width="10" class="a" d="M5, 150 c100,0 400,0 490,-2"/></svg>
+                </div>
+            </div>
+            
+            <div class="slider">
+                <input id="range" type="range" min="-160" max="160" value="0">
+            </div>
+            
+        </div>
+        
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>
