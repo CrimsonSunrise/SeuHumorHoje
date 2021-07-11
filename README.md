@@ -1,4 +1,4 @@
-### Como está o seu humor hoje?
+# Como está o seu humor hoje?
 
 Uma simples página html com animações em Css e um pouco de javascript para medir o nosso humor.
 
